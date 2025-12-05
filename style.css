@@ -162,7 +162,7 @@ footer,
     line-height: 0;
 }
 
-.fmtl { font-weight: bold; }
+.fmtl { font-weight: normal; }
 .fmto { font-style: italic; }
 .fmtn { text-decoration: underline; }
 .fmtm { text-decoration-line: line-through; }
