@@ -1,0 +1,1 @@
+Hi all, I want to thank Gjum for making this possible trough civ books, i literally used chat gpt and copied his work. Links to both his profile on github and civboosk project! https://github.com/CivBooks/CivBooks.github.io https://github.com/CivBooks/CivBooks.github.io/commits?author=Gjum
