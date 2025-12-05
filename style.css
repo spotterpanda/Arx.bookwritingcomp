@@ -182,3 +182,26 @@ footer,
 .fmt7 { color: #bebebe; }
 .fmt8 { color: #3f3f3f; }
 .fmt0 { color: #000000; }
+
+#featured-books {
+    margin-top: 40px;
+}
+
+.book-list {
+    list-style: none;
+    padding-left: 0;
+}
+
+.book-list li {
+    margin: 8px 0;
+}
+
+.book-list a {
+    color: #3c78d8;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.book-list a:hover {
+    text-decoration: underline;
+}
