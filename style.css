@@ -232,3 +232,13 @@ footer,
 body, html {
     font-family: 'Minecraft', 'Unifont', sans-serif;
 }
+
+.minecraft-emoji {
+    display: inline-block;
+    width: 16px;     /* size of one emoji tile */
+    height: 16px;
+    background-image: url("img/emoji.png"); /* your sprite sheet */
+    background-size: auto; /* keep original */
+    image-rendering: pixelated;
+    vertical-align: middle;
+}
